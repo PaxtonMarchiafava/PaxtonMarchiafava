@@ -1,11 +1,15 @@
-### About me
-I am a current student in my final semester of Electromechanical Engineering Technology. I got into computer science, electronics, and mechanical design all during high school in 2018, and they have been my main hobby since. 
-When starting at my college, I joined their [mechatronics skills team](https://en.wikipedia.org/wiki/WorldSkills). On this team, I became the [best at my school](https://www.mechatronicscanada.ca/latest-articles/humber-students-win-intra-provincial-mechatronics-skills-competition/), a [provincial champion](https://humber.ca/today/news/humber-students-return-home-skills-ontario-multiple-medals), [national champion](https://www.mechatronicscanada.ca/changing-scenes/humber-students-golden/), then [16th in the world](https://humber.ca/today/news/excellence-display-worldskills).
+## About me
+I am a current student in my final semester of Electromechanical Engineering Technology. I got into computer science, electronics, and mechanical design all during high school in 2018, and they have been my main hobby since.
 
-### My more interesting projects
+When starting my post secondary education, I joined their [mechatronics skills team](https://en.wikipedia.org/wiki/WorldSkills). On this team, I became the [best at my school](https://www.mechatronicscanada.ca/latest-articles/humber-students-win-intra-provincial-mechatronics-skills-competition/), a [provincial champion](https://humber.ca/today/news/humber-students-return-home-skills-ontario-multiple-medals), [national champion](https://www.mechatronicscanada.ca/changing-scenes/humber-students-golden/), then [16th in the world](https://humber.ca/today/news/excellence-display-worldskills).
+
+## My more interesting projects
 [Custom-Taser](https://github.com/PaxtonMarchiafava/custom-taser) is a custom high power TENS unit designed for easy integration with other hardware and software, using H-bridges, a boost converter, and Arduino control to generate AC square waves for muscle stimulation.
+
 [PDFThief](https://github.com/PaxtonMarchiafava/PDFThief) is a tool that captures screenshots of each page in a restricted PDF and compiles them into a new, fully unrestricted version. It was created to ensure permanent access to purchased documents, like the Canadian Electrical Code, without limitations on printing, expiration, or required software.
-[MinecraftTurtles](https://github.com/PaxtonMarchiafava/MinecraftTurtles) are some programs for the minecraft turtles mod. there's a wood farm, wheat farm and cobblestone generator.
+
+[MinecraftTurtles](https://github.com/PaxtonMarchiafava/MinecraftTurtles) are some programs for the minecraft turtles mod. There's a wood farm, wheat farm and cobblestone generator.
+
 [enhanced-flashbang](https://github.com/jarviscog/enhanced-flashbang) is a hardware addon for the video game CS:GO that a couple friends and I made. Whenever a flashbang goes off in the game, a real life flash goes off in your face!
 
 ### Contact
