@@ -29,10 +29,6 @@ When starting my post secondary education, I joined their [mechatronics skills t
   <a href="https://www.instagram.com/paxton_marchiafava/" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
-  <a href="tel:+4733378901" title="Phone">
-    <img src="https://img.shields.io/badge/Phone-035d50E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
 
   <a href="https://github.com/PaxtonMarchiafava/PaxtonMarchiafava/blob/main/Resume/Resume.pdf" title="Resume">
     <img src="https://img.shields.io/badge/Resume-8888ff.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQo8cGF0aCBkPSJNOCA1LjAwMDA1QzcuMDExNjUgNS4wMDA4MiA2LjQ5MzU5IDUuMDEzMzggNi4wOTIwMiA1LjIxNzk5QzUuNzE1NjkgNS40MDk3MyA1LjQwOTczIDUuNzE1NjkgNS4yMTc5OSA2LjA5MjAyQzUgNi41MTk4NCA1IDcuMDc5ODkgNSA4LjJWMTcuOEM1IDE4LjkyMDEgNSAxOS40ODAyIDUuMjE3OTkgMTkuOTA4QzUuNDA5NzMgMjAuMjg0MyA1LjcxNTY5IDIwLjU5MDMgNi4wOTIwMiAyMC43ODJDNi41MTk4NCAyMSA3LjA3OTg5IDIxIDguMiAyMUgxNS44QzE2LjkyMDEgMjEgMTcuNDgwMiAyMSAxNy45MDggMjAuNzgyQzE4LjI4NDMgMjAuNTkwMyAxOC41OTAzIDIwLjI4NDMgMTguNzgyIDE5LjkwOEMxOSAxOS40ODAyIDE5IDE4LjkyMDEgMTkgMTcuOFY4LjJDMTkgNy4wNzk4OSAxOSA2LjUxOTg0IDE4Ljc4MiA2LjA5MjAyQzE4LjU5MDMgNS43MTU2OSAxOC4yODQzIDUuNDA5NzMgMTcuOTA4IDUuMjE3OTlDMTcuNTA2NCA1LjAxMzM4IDE2Ljk4ODQgNS4wMDA4MiAxNiA1LjAwMDA1TTggNS4wMDAwNVY3SDE2VjUuMDAwMDVNOCA1LjAwMDA1VjQuNzA3MTFDOCA0LjI1NDM1IDguMTc5ODYgMy44MjAxNCA4LjUgMy41QzguODIwMTQgMy4xNzk4NiA5LjI1NDM1IDMgOS43MDcxMSAzSDE0LjI5MjlDMTQuNzQ1NiAzIDE1LjE3OTkgMy4xNzk4NiAxNS41IDMuNUMxNS44MjAxIDMuODIwMTQgMTYgNC4yNTQzNSAxNiA0LjcwNzExVjUuMDAwMDVNMTYgMTFIMTRNMTYgMTZIMTRNOCAxMUw5IDEyTDExIDEwTTggMTZMOSAxN0wxMSAxNSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPg0KPC9zdmc+" alt="Resume" />
