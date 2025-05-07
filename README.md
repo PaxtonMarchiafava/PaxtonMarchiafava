@@ -30,7 +30,7 @@ When starting my post secondary education, I joined their [mechatronics skills t
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   
-  <a href="tel:226-268-9249" title="Phone">
+  <a href="tel:+12262689249" title="Phone">
     <img src="https://img.shields.io/badge/Phone-035d50E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 
