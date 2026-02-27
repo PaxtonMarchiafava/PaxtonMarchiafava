@@ -2,8 +2,8 @@
 <center><b>
 
 
-<a href="tel:226-268-9249" title="Phone">
-  <img src="https://img.shields.io/badge/Phone: +1 226--268--9249-white?style=for-the-badge&logo=whatsapp&logoColor=035d50E4405F" alt="Phone" height=30 />
+<a href="tel:REDACTED" title="Phone">
+  <img src="https://img.shields.io/badge/Phone: +1 REDACTED-white?style=for-the-badge&logo=whatsapp&logoColor=035d50E4405F" alt="Phone" height=30 />
 </a>
 
 <a href="mailto:paxtoncoghlin@gmail.com" title="Gmail">
@@ -17,20 +17,28 @@
 </center>
 
 
-
 ### SUMMARY OF SKILLS
 ---
- - Ladder logic, SFC, and structured text in Studio 5000
- - Robotic Programming and Troubleshooting (Fanuc, Kuka, Denso)
- - PCB, and software design for embedded systems
- - Circuit Analysis
- - Proficiency in C++, and Python
- - Experience with Java, Turing,  and Lua
- - Problem-Solving, Communication, and leadership Skills
-
+- Ladder logic, SFC, and structured text
+- Robotic Programming and Troubleshooting (Fanuc, Kuka, ABB)
+- PCB, and software design for embedded systems
+- Circuit Analysis
+- Proficiency in C++, and Python
+- Experience with Java, Turing, and Lua
+- Problem-Solving, Communication, and leadership Skills
 
 ### WORK EXPERIENCE
 ---
+
+<p>
+  <span style="float: left">Automation Technician, ETHOS Automation, Brantford ON</span>
+  <span style="float: right">2025-Present</span>
+</p>
+<br>
+
+- Wrote and maintained PLC, and Robot code for production lines.
+- Programmed vision systems for part identification and process confirmation.
+</br>
 
 <p>
   <span style="float: left">Skills Competitor, Humber College, Etobicoke ON</span>
@@ -38,8 +46,8 @@
 </p>
 <br>
 
- - Practiced to become faster and more efficient in building automated systems.
- - Designed custom on-body tool holders to hold tools in more ergonomic places in order to increase the speed at which they can be utilized.
+- Practiced to become faster and more efficient in building automated systems.
+- Designed custom on-body tool holders to hold tools in more ergonomic places in order to increase the speed at which they can be utilized.
 </br>
 
 
@@ -49,10 +57,10 @@
 </p>
 <br>
 
- - Designed new unique automated systems for the students I was training
- - Identified weaknesses of competitors and tailored learning opportunities to build on those weak areas
- - Help teach stress management strategies to the students I was training
- - Trained students to be 2 time National Champions
+- Designed new unique automated systems for the students I was training
+- Identified weaknesses of competitors and tailored learning opportunities to build on those weak areas
+- Help teach stress management strategies to the students I was training
+- Trained students to be 2 time National Champions
 </br>
 
 
@@ -62,9 +70,9 @@
 </p>
 <br>
 
- - Stocked groceries to a shelf in a timely, yet precise manner.
- - Helped customers find products that they are having a hard time finding.
- - Unloaded skids of new product from trucks and into the main building by means of power equipment.
+- Stocked groceries to a shelf in a timely, yet precise manner.
+- Helped customers find products that they are having a hard time finding.
+- Unloaded skids of new product from trucks and into the main building by means of power equipment.
 </br>
 
 
@@ -87,7 +95,7 @@
   <span style="float: left">Received the highest score among competitors at the SkillsFrance National competition</span>
   <span style="float: right">2023</span>
   <br>
-  <span style="float: left">Received the Medal of honor at WorldSkills Lyon 2024 in France, placing 16th in the world</span>
+  <span style="float: left">Received the Medallion for Excellence at WorldSkills Lyon 2024 in France, placing 16th in the world</span>
   <span style="float: right">2024</span>
   <br>
 
@@ -98,12 +106,13 @@
 
 ### SOFTWARE KNOWLEDGE
 ---
- - Studio 5000
- - SolidWorks
- - Fusion 360
- - AutoCad
- - EasyEDA
- - LTspice
+- Studio 5000
+- Sysmac Studio
+- SolidWorks
+- Fusion 360
+- AutoCad
+- EasyEDA
+- LTspice
 
 ### EDUCATION
 ---
@@ -111,6 +120,8 @@
 <p>
   <span style="float: left">Electromechanical Engineering Technology co-op at Humber College</span>
   <span style="float: right">Sept 2022 - Aug 2025</span>
+
+  <br>
 
   <span style="float: left">Valedictorian of graduating class</span>
   <span style="float: right">Aug 2025</span>
