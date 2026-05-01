@@ -5,6 +5,8 @@ I currently work as a programmer for ETHOS automation. I got into computer scien
 When starting my post secondary education, I joined their [mechatronics skills team](https://en.wikipedia.org/wiki/WorldSkills). On this team, I became the [best at my school](https://www.mechatronicscanada.ca/latest-articles/humber-students-win-intra-provincial-mechatronics-skills-competition/), a [provincial champion](https://humber.ca/today/news/humber-students-return-home-skills-ontario-multiple-medals), [national champion](https://www.mechatronicscanada.ca/changing-scenes/humber-students-golden/), then [16th in the world](https://humber.ca/today/news/excellence-display-worldskills).
 
 ## My more interesting projects
+[CameraFlash](https://github.com/PaxtonMarchiafava/CameraFlash) is a custom camera-mounted flash/torch for a Sony a7III that fits on a cold shoe. It has 15 brightness levels, USB-C charging, and an extremely low idle current draw of ~15µA.
+
 [Custom-Taser](https://github.com/PaxtonMarchiafava/custom-taser) is a custom high power TENS unit designed for easy integration with other hardware and software, using H-bridges, a boost converter, and Arduino control to generate AC square waves for muscle stimulation.
 
 [PDFThief](https://github.com/PaxtonMarchiafava/PDFThief) is a tool that captures screenshots of each page in a restricted PDF and compiles them into a new, fully unrestricted version. It was created to ensure permanent access to purchased documents, like the Canadian Electrical Code, without limitations on printing, expiration, or required software.
