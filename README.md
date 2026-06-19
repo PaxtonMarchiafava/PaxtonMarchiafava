@@ -1,6 +1,6 @@
 ## About me
 
-I currently work as a programmer for ETHOS automation. I got into computer science, electronics, and mechanical design all during high school in 2018, and they have been my main hobby since.
+I got into computer science, electronics, and mechanical design all during high school in 2018, and they have been my main hobby since.
 
 When starting my post secondary education, I joined their [mechatronics skills team](https://en.wikipedia.org/wiki/WorldSkills). On this team, I became the [best at my school](https://www.mechatronicscanada.ca/latest-articles/humber-students-win-intra-provincial-mechatronics-skills-competition/), a [provincial champion](https://humber.ca/today/news/humber-students-return-home-skills-ontario-multiple-medals), [national champion](https://www.mechatronicscanada.ca/changing-scenes/humber-students-golden/), then [16th in the world](https://humber.ca/today/news/excellence-display-worldskills).
 
