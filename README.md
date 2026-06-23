@@ -2,7 +2,7 @@
 
 I got into computer science, electronics, and mechanical design all during high school in 2018, and they have been my main hobby since.
 
-When starting my post secondary education, I joined their [mechatronics skills team](https://en.wikipedia.org/wiki/WorldSkills). On this team, I became the [best at my school](https://www.mechatronicscanada.ca/latest-articles/humber-students-win-intra-provincial-mechatronics-skills-competition/), a [provincial champion](https://humber.ca/today/news/humber-students-return-home-skills-ontario-multiple-medals), [national champion](https://www.mechatronicscanada.ca/changing-scenes/humber-students-golden/), then [16th in the world](https://humber.ca/today/news/excellence-display-worldskills).
+When starting my post secondary education, I joined my school's [mechatronics skills team](https://en.wikipedia.org/wiki/WorldSkills). On this team, I became the [best at my school](https://www.mechatronicscanada.ca/latest-articles/humber-students-win-intra-provincial-mechatronics-skills-competition/), a [provincial champion](https://humber.ca/today/news/humber-students-return-home-skills-ontario-multiple-medals), [national champion](https://www.mechatronicscanada.ca/changing-scenes/humber-students-golden/), then [16th in the world](https://humber.ca/today/news/excellence-display-worldskills).
 
 ## My more interesting projects
 [CameraFlash](https://github.com/PaxtonMarchiafava/CameraFlash) is a custom camera-mounted flash/torch for a Sony a7III that fits on a cold shoe. It has 15 brightness levels, USB-C charging, and an extremely low idle current draw of ~15µA.
