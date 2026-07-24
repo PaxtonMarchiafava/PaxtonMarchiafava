@@ -38,8 +38,19 @@
 ---
 
 <p>
+  <span style="float: left">idk, the guy who fixes the line when it goes down???, FORMET, St. Thomas ON</span>
+  <span style="float: right">2026-Present</span>
+</p>
+<br>
+
+- Responded to calls reporting that something was wrong and required to come up with a solution, even if it was a different departments problem
+- Identify and execute different forms of continuous improvement
+- Fix other department's issues because I am kinda just too lazy to call them sometimes
+
+
+<p>
   <span style="float: left">Automation Programmer, ETHOS Automation, Brantford ON</span>
-  <span style="float: right">2025-Present</span>
+  <span style="float: right">2025-2026</span>
 </p>
 <br>
 
