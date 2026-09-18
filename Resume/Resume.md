@@ -28,9 +28,10 @@
 - Machine vision integration and inspection programming
 - VFD programming and troubleshooting (ABB)
 - Safety machine control and safety PLC integration
-- PCB and embedded systems design (C++, Python)
+- PCB and embedded systems design
 - Mechanical, pneumatic, and electrical systems support
 - Circuit Analysis
+- Fluent in C++ and Python
 - Experience with Java, Turing, and Lua
 - Problem-Solving, Communication, and leadership Skills
 
