@@ -24,7 +24,7 @@
 - Rockwell PLC programming: Ladder Logic, SFC, and Structured Text (Studio 5000)
 - FANUC and KUKA robotic programming, commissioning, and troubleshooting
 - HMI development: Ignition, FactoryTalk Optix, FactoryTalk View, SYSMAC
-- Industrial networking: EtherNet/IP, IO-Link
+- Industrial networking: EtherNet/IP, IO-Link, DeviceNet
 - Machine vision integration and inspection programming
 - VFD programming and troubleshooting (ABB)
 - Safety machine control and safety PLC integration
