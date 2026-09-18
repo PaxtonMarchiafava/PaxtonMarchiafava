@@ -39,6 +39,18 @@
 ---
 
 <p>
+  <span style="float: left">Wedding Photographer, Contract, Goderich ON</span>
+  <span style="float: right">2026-Willing to do this again but I haven't yet</span>
+</p>
+<br>
+
+- Managed a team of 4 photographers (including myself) to capture weddings efficiently, coordinating coverage to ensure all key moments were documented.
+- Collaborated with couples and wedding coordinators to understand event priorities and deliver a personalized photography experience.
+- Oversaw equipment readiness for a four-photographer team, managing battery charge states, memory card organization, and gear allocation to support seamless event coverage.
+- Did all of this while also being a photographer/videographer myself
+</br>
+
+<p>
   <span style="float: left">idk, the guy who fixes the line when it goes down???, FORMET, St. Thomas ON</span>
   <span style="float: right">2026-Present</span>
 </p>
@@ -131,11 +143,12 @@
 ### SOFTWARE KNOWLEDGE
 ---
 
-- Studio 5000
+- Studio 5000 / rsLogix 5000
 - Ignition (Inductive Automation)
 - FactoryTalk View Machine Edition
 - FactoryTalk OPTIX
 - SYSMAC Studio (PLC + HMI)
+- SIMATIC Manager (Step7)
 - SolidWorks
 - Fusion 360
 - AutoCad
